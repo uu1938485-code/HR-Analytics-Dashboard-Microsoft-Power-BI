@@ -3,33 +3,33 @@
 
 An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze employee attrition, salary trends, age groups, and departmental insights across an organization of 1,480 employees.
 
-Key Dashboard Highlights 
+**Key Dashboard Highlights**
 
- KPI Overview
+**KPI Overview**
  
-Total Employees: 1,480 | Avg Age: 37 | Avg Salary: 6.5K | Avg Tenure: 7 years
+**Total Employees**: 1,480 | Avg Age: 37 | Avg Salary: 6.5K | Avg Tenure: 7 years
 
-  Attrition by Age Group
+ **Attrition by Age Group**
   
 Highest attrition in 26–35 age group (611 employees)
 
-  Attrition by Salary
+**Attrition by Salary**
   
 Employees earning ≤5K show highest attrition (753)
 
-  Attrition by Job Role
+**Attrition by Job Role**
   
 Top impacted roles: Sales Executive, Research Scientist, Lab Technician
 
-  Attrition by Education Field
+**Attrition by Education Field**
   
 Life Sciences shows highest attrition (41%)
 
-  Department Filter (Slicer)
+**Department Filter (Slicer)**
   
 Interactive filtering across HR, R&D, and Sales
 
-  Key Insights
+**Key Insights**
   
 Low salary is the main driver of attrition
 
@@ -41,7 +41,7 @@ Male attrition is higher than female
 
 Average tenure is only 7 years
 
- Tools & Skills
+**Tools & Skills**
 
 Microsoft Power BI
 
@@ -53,15 +53,7 @@ HR Data Analysis
 
 Data Interpretation & Insights
 
-Dataset
-
-HR Employee Attrition Dataset
-
- Project Purpose
-
-To identify why employees leave and help organizations improve retention strategies using data-driven insights.
-
-About Me
+**About Me**
 
 I am a Computer Science student with a strong interest in Data Analytics and Business Intelligence.
 Skilled in building dashboards and extracting insights from data to support decision-making.
