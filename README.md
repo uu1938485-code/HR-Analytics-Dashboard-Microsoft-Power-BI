@@ -58,3 +58,11 @@ Data Interpretation & Insights
 I am a Computer Science student with a strong interest in Data Analytics and Business Intelligence.
 Skilled in building dashboards and extracting insights from data to support decision-making.
 
+Actively seeking roles:
+
+Data Analyst
+
+Power BI Developer
+
+Business Intelligence Analyst
+
